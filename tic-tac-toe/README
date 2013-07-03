@@ -1,0 +1,7 @@
+TIC TAC TOE
+
+To play the game, execute the following command from the shell:
+
+python play_tic_tac_toe.py
+
+Note: You would need to add tic-tac-toe/tic-tac-toe directory to your python path
